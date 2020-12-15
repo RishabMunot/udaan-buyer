@@ -1,0 +1,39 @@
+{
+  "name": "ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "node-sass": "^4.14.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-map-gl": "^5.2.10",
+    "react-medium-image-zoom": "^3.0.15",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^2.1.5",
+    "reactstrap": "^8.7.1",
+    "redux": "^4.0.1",
+    "validator": "^13.5.1"
+  },
+  "scripts": {
+    "start": "PORT=7000 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm1-1.png) ![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm2-2.png) ![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm3.png) ![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm4.png) ![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm5.png)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

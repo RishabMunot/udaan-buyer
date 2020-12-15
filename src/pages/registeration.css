@@ -1,0 +1,45 @@
+.Navbar {
+  background-color: #323232;
+  margin-bottom: 30px;
+}
+
+.heading {
+  text-align: center;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.footer {
+  margin-top: 30px;
+  background-color: #333;
+  padding: 10px;
+  font-size: 80%;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.paragraph {
+  margin-top: 30px;
+  margin-left: 20px;
+  color: #888;
+  text-align: center;
+  font-size: 90%;
+}
+
+.formInfo {
+  /* width: 50%; */
+  /* width: 500;
+  height: 80; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  height: calc(100vh - 120px);
+}
